@@ -1,0 +1,7 @@
+version: "3"
+
+services:
+  django:
+    restart: always
+    volumes:
+      - '/mnt/github42.com/files:/mnt/github42.com/files'

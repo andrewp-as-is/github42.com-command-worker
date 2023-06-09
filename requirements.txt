@@ -1,0 +1,15 @@
+Django
+dj-database-url
+django-configurations-autoenv
+django-configurations-base
+django-configurations-installed-apps
+django-github-oauth
+
+django_passwordless_user
+
+aiofiles
+aiohttp
+aiohttp-proxy
+
+linkheader_parser
+psycopg2

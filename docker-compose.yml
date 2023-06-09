@@ -1,0 +1,8 @@
+version: "3"
+
+services:
+  django:
+    image: github42.com-backend-tasks:latest
+    container_name: github42.com-backend-tasks
+    env_file:
+      - .env
